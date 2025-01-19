@@ -1,0 +1,5 @@
+[terminal]
+shell = {program="C:\\msys64\\msys2_shell.cmd", args=["-defterm", "-here", "-use-full-path", "-no-start", "-mingw64"]}
+
+[window]
+startup_mode = "Maximized"
